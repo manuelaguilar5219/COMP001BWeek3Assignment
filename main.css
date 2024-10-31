@@ -17,6 +17,7 @@ h1, h2, h3 {
 
 aside {
 	float: left;
+	border: 15px solid white;
 }
 
 footer {
@@ -33,10 +34,12 @@ img {
 
 main {
 	float: left;
+	border: 15px solid white;
 }
 
 nav {
 	float: left;
+	border: 15px solid white;
 }
 
 #copyright {
