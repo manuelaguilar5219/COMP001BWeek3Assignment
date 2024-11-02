@@ -16,8 +16,9 @@ h1, h2, h3 {
 }
 
 aside {
-	float: left;
-	border: 15px solid white;
+	float: right;
+	width: 20%;
+	padding-right: 15%;
 }
 
 footer {
