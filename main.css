@@ -35,7 +35,8 @@ img {
 
 main {
 	float: left;
-	border: 15px solid white;
+	width: 50%;
+	padding-bottom: 15px;
 }
 
 nav {
